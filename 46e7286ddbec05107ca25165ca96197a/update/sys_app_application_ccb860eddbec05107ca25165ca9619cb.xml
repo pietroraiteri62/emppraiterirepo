@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Label">879903430a0a0b990079ea912cc18681</category>
+        <description>Collects ome extensions to Idea</description>
+        <device_type>browser</device_type>
+        <hint>Collects ome extensions to Idea</hint>
+        <name/>
+        <order/>
+        <roles>idea_manager,idea_admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>Pietro.Raiteri</sys_created_by>
+        <sys_created_on>2021-12-20 11:03:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ccb860eddbec05107ca25165ca9619cb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Idea Extensions</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Idea Extensions" source="46e7286ddbec05107ca25165ca96197a">46e7286ddbec05107ca25165ca96197a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Idea Extensions">46e7286ddbec05107ca25165ca96197a</sys_scope>
+        <sys_update_name>sys_app_application_ccb860eddbec05107ca25165ca9619cb</sys_update_name>
+        <sys_updated_by>Pietro.Raiteri</sys_updated_by>
+        <sys_updated_on>2021-12-20 11:08:17</sys_updated_on>
+        <title>Idea Extensions</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
